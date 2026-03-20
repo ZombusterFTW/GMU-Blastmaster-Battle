@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e19e8b3118be78478c399e57a9fe695, type: 3}
+  m_Name: PowerupSpawnDebug
+  m_EditorClassIdentifier: 
+  gamemodeName: Powerup Debug
+  gamemodeDescription: For testing only
+  showGamemodeIndentifierOnRoundStart: 1
+  roundTime: 120
+  roundStartCountdownTime: 3
+  winTime: 5
+  pressureBlockSpawnTime: 30
+  powerupSpawnTime: 0
+  dontSpawnRandomPowerupsTillAllBlocksGone: 0
+  beginWithNoBlocks: 1
+  maxPowerupsSpawned: 100
+  minTimeForPowerupSpawn: 0
+  maxTimeForPowerupSpawn: 0
+  powerupBlockDropChance: 4
+  commonPowerupDrops:
+  - {fileID: 2237079211920905780, guid: 016793782c35d1f43ab151e401f2f180, type: 3}
+  - {fileID: 1223402396919215940, guid: ad641ec5d5d1d0c4d8744f26a8cb9d3d, type: 3}
+  - {fileID: 2237079211920905780, guid: 84002234e3904f242945758228228fb0, type: 3}
+  - {fileID: 2237079211920905780, guid: 79f63426904ce6841a0325db3b3d43f3, type: 3}
+  - {fileID: 2237079211920905780, guid: e4123737f10b4834b839bbc2db5dad8e, type: 3}
+  - {fileID: 1223402396919215940, guid: ac4e7e0a85dfc66428ad4d261bd9e547, type: 3}
+  rarePowerupDrops: []
+  legendaryPowerupDrops: []
+  weightedPowerupSpawnsEnabled: 0
+  startingBombCap: 2
+  startingBombRadius: 2
+  startingMoveSpeed: 25
+  startingFlightSpeed: 50
+  startWithShield: 0
+  shieldStartingCount: 1
+  startingBombType: 4
+  startingPlayerPowerup: 0
+  automaticBombShift: 0
+  bombShiftTime: 1.53

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e19e8b3118be78478c399e57a9fe695, type: 3}
+  m_Name: KeepIt100
+  m_EditorClassIdentifier: 
+  gamemodeName: Keep It 100
+  gamemodeDescription: 100 EVERYTHING
+  showGamemodeIndentifierOnRoundStart: 1
+  roundTime: 500
+  roundStartCountdownTime: 3
+  winTime: 5
+  pressureBlockSpawnTime: 10
+  powerupSpawnTime: 0
+  dontSpawnRandomPowerupsTillAllBlocksGone: 0
+  beginWithNoBlocks: 0
+  maxPowerupsSpawned: 100
+  minTimeForPowerupSpawn: 0.1
+  maxTimeForPowerupSpawn: 1
+  powerupBlockDropChance: 4
+  commonPowerupDrops:
+  - {fileID: 1223402396919215940, guid: ad641ec5d5d1d0c4d8744f26a8cb9d3d, type: 3}
+  rarePowerupDrops: []
+  legendaryPowerupDrops: []
+  weightedPowerupSpawnsEnabled: 0
+  startingBombCap: 100
+  startingBombRadius: 100
+  startingMoveSpeed: 25
+  startingFlightSpeed: 50
+  startWithShield: 1
+  shieldStartingCount: 1
+  startingBombType: 1
+  startingPlayerPowerup: 0
+  automaticBombShift: 0
+  bombShiftTime: 1.53

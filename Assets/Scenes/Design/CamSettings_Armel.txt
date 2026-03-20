@@ -1,0 +1,6 @@
+Camera settings for Bomberman
+
+[Make sure aspect ratio is 1280 x 960]
+
+Position: X=0, Y= 106.2, Z= -84.9
+F.O.V = 44

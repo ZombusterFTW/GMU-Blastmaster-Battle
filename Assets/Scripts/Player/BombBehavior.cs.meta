@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5561141077481aa488d3cd6e011235a9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bombAudioSource: {instanceID: 0}
+  - Slide: {instanceID: 0}
+  - Explosion: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
