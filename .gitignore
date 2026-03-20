@@ -79,3 +79,6 @@ crashlytics-build.properties
 *.zip
 *resS
 *.resource
+/Game_Build
+/Game_Build_ControllerSupport
+/GameBuild_2026
